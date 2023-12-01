@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-13T21:20:40 EET" name="Default suite" finished-at="2023-11-13T21:21:22 EET" duration-ms="42205">
+    <groups>
+    </groups>
+    <test started-at="2023-11-13T21:20:40 EET" name="Default test" finished-at="2023-11-13T21:21:22 EET" duration-ms="42205">
+      <class name="almosafer.TLogin">
+        <test-method is-config="true" signature="Randlangage()[pri:0, instance:almosafer.TLogin@62fad19]" started-at="2023-11-13T21:20:40 EET" name="Randlangage" finished-at="2023-11-13T21:21:22 EET" duration-ms="41620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randlangage -->
+        <test-method signature="Randomlyselect()[pri:0, instance:almosafer.TLogin@62fad19]" started-at="2023-11-13T21:21:22 EET" name="Randomlyselect" finished-at="2023-11-13T21:21:22 EET" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomlyselect -->
+        <test-method signature="Randomlyselect()[pri:0, instance:almosafer.TLogin@62fad19]" started-at="2023-11-13T21:21:22 EET" name="Randomlyselect" finished-at="2023-11-13T21:21:22 EET" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomlyselect -->
+        <test-method signature="Randomlyselect()[pri:0, instance:almosafer.TLogin@62fad19]" started-at="2023-11-13T21:21:22 EET" name="Randomlyselect" finished-at="2023-11-13T21:21:22 EET" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomlyselect -->
+      </class> <!-- almosafer.TLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
